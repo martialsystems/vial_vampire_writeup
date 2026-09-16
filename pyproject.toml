@@ -1,0 +1,11 @@
+[project]
+name = "vial-vampire-writeup"
+version = "0.1.0"
+description = "Note on the closed-vial vampire trees. Locks stay on the trees."
+requires-python = ">=3.11"
+
+[project.optional-dependencies]
+dev = ["pytest", "reportlab", "pypdfium2", "pillow"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

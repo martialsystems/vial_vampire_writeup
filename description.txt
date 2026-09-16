@@ -1,0 +1,1 @@
+Note on the closed-vial vampire trees. Locks stay on the trees. Index: gist 12835f74.
