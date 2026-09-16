@@ -49,6 +49,7 @@ def test_readme_points_at_note_and_index() -> None:
     assert "NOTE.md" in text
     assert "vial_vampire_note.pdf" in text
     assert INDEX in text
+    assert "52747cfd" in text
     assert "\u2014" not in text
     desc = (REPO / "description.txt").read_text(encoding="utf-8")
     assert "12835f74" in desc

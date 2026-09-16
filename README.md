@@ -2,7 +2,7 @@
 
 Note on the closed-vial vampire trees. Locks stay on the trees.
 
-The argument is [NOTE.md](NOTE.md). The PDF is [docs/vial_vampire_note.pdf](docs/vial_vampire_note.pdf). The SHA index is gist [12835f74](https://gist.github.com/martialsystems/12835f747d6360781f3cc7f91f243178). Do not restamp fly_vial F, vial_sanguis2 `4946ab5`, vial_morsus `b106228`, vial_culex `fa819c7`, or vial_handoff `e843b8c`.
+The argument is [NOTE.md](NOTE.md). The PDF is [docs/vial_vampire_note.pdf](docs/vial_vampire_note.pdf). Pasteable copy: gist [52747cfd](https://gist.github.com/martialsystems/52747cfd231923558f062671d09156d5). The SHA index is gist [12835f74](https://gist.github.com/martialsystems/12835f747d6360781f3cc7f91f243178). Do not restamp fly_vial F, vial_sanguis2 `4946ab5`, vial_morsus `b106228`, vial_culex `fa819c7`, or vial_handoff `e843b8c`.
 
 ## How to run
 
