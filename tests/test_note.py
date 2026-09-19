@@ -56,7 +56,7 @@ def test_readme_points_at_note_and_index() -> None:
     assert "\u2014" not in desc
     agents = (REPO / "AGENTS.md").read_text(encoding="utf-8")
     assert "not a finding tree" in agents
-    assert "Do not edit gist" in agents
+    assert "citation columns" in agents
 
 
 def test_pdf_and_figure_exist() -> None:

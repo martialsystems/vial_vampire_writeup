@@ -1,6 +1,6 @@
 # Closed-vial vampire claims: note
 
-Locks stay on the trees. Index: gist [12835f74](https://gist.github.com/martialsystems/12835f747d6360781f3cc7f91f243178).
+Locks stay on the trees. Index: gist [12835f74](https://gist.github.com/martialsystems/12835f747d6360781f3cc7f91f243178). Object of study: unconstrained evolutionary toy. FlyWire and MaleCNS are templates, not the stepper. Halt on every vampire tree is the product.
 
 ## Abstract
 
