@@ -364,7 +364,7 @@ def build() -> Path:
     )
     story.append(
         Paragraph(
-            "2026-09-20: sources for MaleCNS (Berg et al., 2026), FlyWire (Dorkenwald et al., 2024), and Wright (1931).",
+            "2026-09-20: sources for MaleCNS (Berg et al., 2026), FlyWire (Dorkenwald et al., 2024), and Wright (1931). Accountability sentence. Cite parent fly_vial Release plus SWHID. No DOI. This PDF is not a software deposit.",
             st["BodyJ0"],
         )
     )

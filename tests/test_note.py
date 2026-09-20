@@ -42,6 +42,9 @@ def test_note_lede() -> None:
     assert "10.1016/j.cell.2026.08.015" in text
     assert "10.1038/s41586-024-07558-y" in text
     assert "10.1093/genetics/16.2.97" in text
+    assert "No AI tool is an author" in text
+    assert "swh:1:snp:1ca342b7bacb5c9f996cf97a39933df3eb6c056e" in text
+    assert "10.5281" not in text
     words = re.findall(r"[A-Za-z0-9][A-Za-z0-9'./_-]*", text)
     assert 1400 <= len(words) <= 3200
 
@@ -76,6 +79,8 @@ def test_pdf_and_figure_exist() -> None:
     assert "Revisions" in text
     assert "2026-09-16" in text
     assert "2026-09-20" in text
+    assert "10.5281" not in text
+    assert "No AI tool is an author" in text
     assert "10.1016/j.cell.2026.08.015" in text
     assert "e2e22b7" in text
     assert "4946ab5" in text
