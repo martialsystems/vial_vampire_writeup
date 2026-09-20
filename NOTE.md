@@ -160,6 +160,16 @@ Index (pointers only): https://gist.github.com/martialsystems/12835f747d6360781f
 
 How to run: in each tree, `.venv/bin/python -m pytest`. Do not overwrite the listed lock files. Do not raise `bite_weight`. Do not raise gut_probe payoff. Do not restamp fly_vial F.
 
+## Sources (2026-09-20)
+
+Records checked on Crossref, 2026-09-20. FlyWire and MaleCNS are templates, not the stepper. Wright is the scale for the parent random arm.
+
+Berg, S., Beckett, I. R., Costa, M., Schlegel, P., Januszewski, M., Marin, E. C., Nern, A., et al. (2026). Sexual dimorphism in the complete Drosophila male central nervous system connectome. Cell, 189(18), 5504-5526.e15. https://doi.org/10.1016/j.cell.2026.08.015
+
+Dorkenwald, S., Matsliah, A., Sterling, A. R., Schlegel, P., Yu, S. C., McKellar, C. E., Lin, A., et al. (2024). Neuronal wiring diagram of an adult brain. Nature, 634(8032), 124-138. https://doi.org/10.1038/s41586-024-07558-y
+
+Wright, S. (1931). Evolution in Mendelian populations. Genetics, 16(2), 97-159. https://doi.org/10.1093/genetics/16.2.97
+
 | Tree | Lock |
 |------|------|
 | fly_vial | `logs/assort_80.json`, `logs/random_80.json` |
